@@ -23,8 +23,8 @@ spectrogram view (check out both linear and log scales).
 
 ![](media/image00.png)
 
-Figure 1: screenshot of .wav opened in audacity. there are **very**
-obvious high/low "values".
+*Figure 1: screenshot of .wav opened in audacity. there are **very**
+obvious high/low "values".*
 
 Okay, cool, let's try to convert the low/high from the audio file to a
 stream of 0s and 1s.
@@ -72,8 +72,8 @@ max of 32760) initially.
 
 ![](media/image01.png)
 
-Figure 2: you can see that the audio file starts out with low/high being
-shifted lower, then levels out to low/high being roughly symmetrical
+*Figure 2: you can see that the audio file starts out with low/high being
+shifted lower, then levels out to low/high being roughly symmetrical*
 
 ### Converting to 0s and 1s
 
@@ -380,6 +380,7 @@ Time to see if there's anything useful in the file. run it through
 data, then eventually.....
 
 ![](media/image02.png)
+*Figure 3: found the flag!*
 
 By the way:
 -----------
