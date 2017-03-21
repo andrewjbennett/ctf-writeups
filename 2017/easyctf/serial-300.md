@@ -1,8 +1,6 @@
 Serial   ||    300 points    ||    Forensics - Solved (1 solve)
 ----------------------------------------------------------
 
-**welp, I did it.**
-
 This challenge was pretty fun -- and very very frustrating when I had no
 idea what I was doing or where to go next. *(I'm reminded of that time
 when I accidentally mirror-inverted then rotated the QR code I was
