@@ -380,6 +380,7 @@ Time to see if there's anything useful in the file. run it through
 data, then eventually.....
 
 ![](media/image02.png)
+
 *Figure 3: found the flag!*
 
 By the way:
