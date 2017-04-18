@@ -309,9 +309,3 @@ except:
     pass
 
 ```
-
-
-
-### External Writeups
-
-* \(none\)
