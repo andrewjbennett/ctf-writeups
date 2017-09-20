@@ -1,4 +1,4 @@
-# 6445 - CTF1 - Andrew Bennett - 3378327
+# 6445 - CTF1 - Andrew Bennett
 
 ## LEVEL 0
 __FLAG: `COMP6445{60c2f244-fb35-49c1-86a2-2c6e334bd74b}`__
@@ -31,7 +31,7 @@ andrew@niko:~/forensics/exam/easyflags/level2$ eog flag2.jpg
 __FLAG: `COMP6445{9ffd73a4-7653-4bd0-a0ec-cd28784a368f}`__
 
 ```console
-andrew@niko:~/forensics/exam/easyflags/level3$ strings words.pdf |tail -1
+andrew@niko:~/forensics/exam/easyflags/level3$ strings words.pdf | tail -1
 COMP6445{9ffd73a4-7653-4bd0-a0ec-cd28784a368f}
 ```
 
@@ -92,7 +92,7 @@ DECIMAL       HEXADECIMAL     DESCRIPTION
 
 ```
 ```console
-andrew@niko:~/forensics/exam/trickyflags/level7/_HPA.img_extracted$ eog 1FFF6A00
+andrew@niko:~/forensics/exam/trickyflags/level7/HPA$ eog _HPA.img_extracted/1FFF6A00
 ```
 ![flag](level7.png)
 
