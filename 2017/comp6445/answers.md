@@ -112,7 +112,10 @@ COMP6445{0ebc14ca-6b04-41ea-87e6-1f9ed5cf}
 ```
 
 ## LEVEL 9
-todo.
+```console
+andrew@niko:~/forensics/exam/trickyflags/level9$ diff --changed-group-format='%>' --unchanged-group-format=''   -a knight pawn | tr -d "\n" | grep -a -o "Q[^=]*==" | head -1 | base64 -d
+COMP6445{c2383817-e674-4797-b236-37ef96ed1e19}
+```
 
 ## LEVEL 10
 
